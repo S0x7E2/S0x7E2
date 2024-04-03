@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**S0x7E2/S0x7E2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- # 👀 Hi ! 👋🏻 -->
+
+# 🤔 About me:
+
+
+- I live between the mountains - ![SassyWalkGIF](https://github.com/S0x7E2/S0x7E2/assets/65790722/febdcbd4-6e92-43a6-a125-f4f211c95d16)
+- Professional 🐛 solver
+- 👨🏻‍💻 Full-Stack Developer 
+
+
+
+
+
+
+
