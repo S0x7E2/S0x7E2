@@ -1,8 +1,7 @@
 
+ #  Hi bro 🤙
 
-<!-- #  Hi bro 🤙 -->
-
-#  About Suliman ![QueRolloGIF](https://github.com/S0x7E2/S0x7E2/assets/65790722/b865ccf9-e6ad-4d1d-b251-b2bca34b7ec7)
+#  About Suliman ![LoveYouHamsterGIF](https://github.com/S0x7E2/S0x7E2/assets/65790722/5de36a38-14ac-46bb-9e2d-9c9300223326)
 
 
 - I live between the mountains ⛰️
