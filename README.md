@@ -8,7 +8,7 @@
 
 - I live between the mountains ⛰️
 - Professional 🐛 solver
-- 👨🏻‍💻 Full-Stack Developer 
+-👨🏻‍💻 Full-Stack Developer 
 
 
 
