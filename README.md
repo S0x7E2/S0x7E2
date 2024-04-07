@@ -5,7 +5,7 @@ About Suliman ![LoveYouHamsterGIF](https://github.com/S0x7E2/S0x7E2/assets/65790
 
 
 - I live between the mountains ⛰️
-- Professionalsolver 🤓
+- Professional solver 🤓
 - Full-Stack web Developer 👨🏻‍💻
 
 
