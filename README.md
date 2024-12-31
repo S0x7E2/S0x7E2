@@ -3,9 +3,9 @@
 
 About Me 
 
--  I live between the mountains ⛰️
+- I live between the mountains ⛰️
 - Professional solver 🤓
-- Business intelligence analyst  👨🏻‍💻
+- Business Intelligence Analyst |  Data Analyst👨🏻‍💻
 
 
 
