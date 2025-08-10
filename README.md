@@ -28,7 +28,7 @@
 
 - 📧 alnzysuliman@gmail.com  
 - 🔗 [website](https://sms.pub.sa)  
-- 🐦 [Twitter](https://twitter.com/sulimanmu_)
+
 
 ---
 
