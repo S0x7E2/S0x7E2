@@ -1,85 +1,93 @@
 <div align="center">
 
-# 👋 سليمان العنزي
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         HERO SECTION                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-### Business Analyst · AI · Data
-
-<a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&center=true&vCenter=true&width=750&lines=Business+Analyst+%7C+AI+%26+Data;Turning+Business+Problems+into+AI+Solutions;Requirements+%7C+LLMs+%7C+RAG+%7C+AI+Agents;From+Business+Need+to+Production+Solution" />
+<a href="https://github.com/S6x7E2">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050816,50:0B1630,100:111827&text=SULAIMAN%20AL-ANAZI&fontSize=42&fontColor=FFFFFF&fontAlignY=40&desc=BUSINESS%20ANALYST%20%7C%20AI%20%7C%20DATA&descSize=18&descAlignY=58&descColor=38BDF8&animation=fadeIn"/>
 </a>
 
 <br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=800&lines=Business+Analyst+%7C+AI+%26+Data;Turning+Business+Problems+into+AI+Solutions;Requirements+%7C+LLMs+%7C+RAG+%7C+AI+Agents;Business+%E2%86%92+Data+%E2%86%92+AI+%E2%86%92+Business+Value"/>
+
+<br><br>
 
 <p>
-I bridge the gap between <b>Business</b>, <b>Data</b> and <b>AI</b>.
-<br>
-I turn complex business problems into practical technology solutions.
+  <a href="https://linkedin.com/in/sulimanalanazi">
+    <img src="https://img.shields.io/badge/LINKEDIN-0B1220?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
+  </a>
+  <a href="mailto:anizysuliman@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-0B1220?style=for-the-badge&logo=gmail&logoColor=38BDF8"/>
+  </a>
+  <a href="https://github.com/S6x7E2">
+    <img src="https://img.shields.io/badge/GITHUB-0B1220?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+  </a>
 </p>
-
-<br>
-
-<a href="https://linkedin.com/in/sulimanalanazi">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="mailto:anizysuliman@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
 
 </div>
 
 ---
 
-## 🧠 About Me
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         INTRO                                  -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-I'm a **Business Analyst specialized in AI & Data**, working at the intersection of:
+<div align="center">
 
-`Business` → `Requirements` → `Data` → `AI` → `Technology`
+# `BUSINESS × DATA × AI`
 
-My focus is turning complex business problems into practical, scalable solutions.
+### I bridge the gap between business needs and technology.
 
-- 🤖 AI & Generative AI
-- 🧩 Business Analysis & Requirements
-- 📊 Data Analytics & Business Intelligence
-- 🔎 LLMs, RAG & AI Agents
-- 🏛️ Enterprise & Government AI Solutions
+**Requirements → Data → AI → Solutions → Business Value**
 
----
+</div>
 
-## ⚡ What I Do
+<br>
 
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="33%" align="center">
 
-### 🤖 AI & Generative AI
+### 🤖
 
-- LLM-based solutions
-- Agentic AI
-- AI Agents
-- RAG
-- Conversational AI
-- Arabic AI
-- TTS / STT
-- Prompt Engineering
-- Transformers
+**AI**
+
+LLMs  
+Agentic AI  
+RAG  
+Conversational AI  
+TTS / STT
 
 </td>
 
-<td width="50%" valign="top">
+<td width="33%" align="center">
 
-### 📊 Business & Data
+### 🧩
 
-- Requirements Engineering
-- BRD / SRS
-- Business Process Analysis
-- AS-IS / TO-BE
-- UML / BPMN
-- UAT
-- Data Analytics
-- Power BI
-- KPI Reporting
+**BUSINESS**
+
+Requirements  
+BRD / SRS  
+BPMN / UML  
+UAT  
+Process Analysis
+
+</td>
+
+<td width="33%" align="center">
+
+### 📊
+
+**DATA**
+
+Power BI  
+Tableau  
+SQL  
+Python  
+Data Management
 
 </td>
 
@@ -88,32 +96,53 @@ My focus is turning complex business problems into practical, scalable solutions
 
 ---
 
-## 🔄 How I Think
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       AI SYSTEM                                 -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
+<div align="center">
 
+## 🧠 HOW I APPROACH AI PROJECTS
 
-```md
-## ⚡ From Problem to Value
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=38BDF8"/>
+
+</div>
+
+<br>
 
 ```text
-BUSINESS PROBLEM
-       │
-       ▼
-REQUIREMENTS
-   ANALYSIS
-       │
-       ▼
-PROCESS + DATA
-   ANALYSIS
-       │
-       ▼
-AI / DIGITAL
-  SOLUTION
-       │
-       ▼
-DELIVERY + UAT
-       │
-       ▼
-━━━━━━━━━━━━━━━━━━━━
-   BUSINESS VALUE
-━━━━━━━━━━━━━━━━━━━━
+                         BUSINESS PROBLEM
+                                │
+                                ▼
+                    ┌──────────────────────┐
+                    │ REQUIREMENTS         │
+                    │ ELICITATION &        │
+                    │ ANALYSIS             │
+                    └──────────┬───────────┘
+                               │
+                               ▼
+                    ┌──────────────────────┐
+                    │ PROCESS & DATA       │
+                    │ ANALYSIS             │
+                    └──────────┬───────────┘
+                               │
+                               ▼
+              ┌─────────────────────────────────┐
+              │          AI SOLUTION            │
+              │                                 │
+              │   ┌───────┐      ┌─────────┐   │
+              │   │  RAG  │      │   LLM   │   │
+              │   └───┬───┘      └────┬────┘   │
+              │       │               │        │
+              │       └───────┬───────┘        │
+              │               ▼                │
+              │          AI AGENT               │
+              └────────────────┬────────────────┘
+                               │
+                               ▼
+                    ┌──────────────────────┐
+                    │ INTEGRATION & UAT    │
+                    └──────────┬───────────┘
+                               │
+                               ▼
+                        BUSINESS VALUE
