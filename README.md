@@ -6,11 +6,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=35&text=AI%20%7C%20BUSINESS%20ANALYSIS%20%7C%20DATA%20%7C%20TECHNOLOGY&fontSize=18&fontColor=00AEEF&animation=fadeIn" alt="AI Business Analysis Data Technology" />
 
+
 <br>
-
-<img src="./portfolio-dashboard.png" alt="Sulaiman Al-Anazi Portfolio Dashboard" width="100%" />
-
-<br><br>
 
 <a href="https://linkedin.com/in/sulimanalanazi">
 <img src="https://img.shields.io/badge/LinkedIn-0066C8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
