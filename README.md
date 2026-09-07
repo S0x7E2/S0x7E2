@@ -4,7 +4,7 @@
 
 ### Business Analyst · AI · Data
 
-<img src="assets/portfolio-dashboard.png" alt="Sulaiman Al-Anazi AI Portfolio Dashboard" width="100%"/>
+<img src="portfolio-dashboard.png" alt="Sulaiman Al-Anazi AI Portfolio Dashboard" width="100%"/>
 
 <br>
 
