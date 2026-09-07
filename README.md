@@ -90,31 +90,30 @@ My focus is turning complex business problems into practical, scalable solutions
 
 ## 🔄 How I Think
 
+
+
+```md
+## ⚡ From Problem to Value
+
 ```text
-             BUSINESS PROBLEM
-                    │
-                    ▼
-           ┌─────────────────┐
-           │   Requirements  │
-           │     Analysis    │
-           └────────┬────────┘
-                    │
-                    ▼
-           ┌─────────────────┐
-           │ Process & Data  │
-           │     Analysis    │
-           └────────┬────────┘
-                    │
-                    ▼
-           ┌─────────────────┐
-           │   AI / Digital  │
-           │     Solution    │
-           └────────┬────────┘
-                    │
-                    ▼
-           ┌─────────────────┐
-           │ Delivery & UAT  │
-           └────────┬────────┘
-                    │
-                    ▼
-              BUSINESS VALUE
+BUSINESS PROBLEM
+       │
+       ▼
+REQUIREMENTS
+   ANALYSIS
+       │
+       ▼
+PROCESS + DATA
+   ANALYSIS
+       │
+       ▼
+AI / DIGITAL
+  SOLUTION
+       │
+       ▼
+DELIVERY + UAT
+       │
+       ▼
+━━━━━━━━━━━━━━━━━━━━
+   BUSINESS VALUE
+━━━━━━━━━━━━━━━━━━━━
