@@ -1,16 +1,24 @@
 <div align="center">
 
-# SULAIMAN AL-ANAZI
-
-### Business Analyst · AI · Data
-
-<img src="portfolio-dashboard.png" alt="Sulaiman Al-Anazi AI Portfolio Dashboard" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2500&pause=1000&color=00AEEF&center=true&vCenter=true&width=800&lines=SULAIMAN+AL-ANAZI;BUSINESS+ANALYST+%7C+AI+%7C+DATA;TURNING+BUSINESS+PROBLEMS+INTO+AI+SOLUTIONS" />
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sulimanalanazi)
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![Email](https://img.shields.io/badge/Email-00AEEF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+<p>
+  <strong>Business Analyst · AI · Data · Digital Transformation</strong>
+</p>
+
+<img src="portfolio-dashboard.png" alt="Sulaiman Al-Anazi AI Portfolio Dashboard" width="100%"/>
+
+<br><br>
+
+<a href="https://linkedin.com/in/sulimanalanazi">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/S0x7E2">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
@@ -20,7 +28,7 @@
 
 > **Turning Business Problems into AI Solutions.**
 
-I'm a Business Analyst focused on bridging the gap between **business strategy, data, and AI**.
+I'm a **Business Analyst** focused on bridging the gap between **business strategy, data, and AI**.
 
 My work sits at the intersection of:
 
@@ -38,6 +46,7 @@ I translate complex business problems into **clear requirements, scalable soluti
 
 <table>
 <tr>
+
 <td width="25%" align="center">
 
 ### 🤖 AI & GenAI
@@ -86,6 +95,7 @@ AI Adoption
 Technology Strategy
 
 </td>
+
 </tr>
 </table>
 
@@ -94,139 +104,58 @@ Technology Strategy
 ## 💼 Professional Experience
 
 ### 🏢 Future Look ITC — The House of AI
+
 **Business Analyst | Apr 2026 – Present**
 
 - Lead requirements elicitation for AI products and solutions
 - Analyze AI/LLM and Agentic AI requirements
 - Facilitate workshops and define business use cases
-- Author BRDs and AI/S-to-BE models
-- Advise government entities on AI solutions
+- Author BRDs and AI solution requirements
+- Design AS-IS / TO-BE business processes
+- Advise organizations on AI-powered solutions
 
 ---
 
 ### 🏛️ Saudi Electronic University
+
 **AI Business Analyst | Jan 2025 – Dec 2025**
 
 - Owned the requirements lifecycle
+- Conducted business and process analysis
 - Created executive dashboards
-- Led data cleansing and quality assessment
-- Established Data Management Office practices
-- Modeled processes using UML & BPMN
+- Supported digital transformation initiatives
+- Translated business needs into technology solutions
 
 ---
 
-### 🌐 WeCloudData
-**Business Intelligence Analyst Intern | Aug 2024 – Nov 2024**
-
-- Built interactive dashboards
-- Prepared data for visualization
-- Analyzed business KPIs
-- Identified process gaps and opportunities
-
----
-
-### 💼 Dnet
-**Business Analyst | Jan 2023 – Jun 2024**
-
-- Analyzed business requirements
-- Led RCA for infrastructure issues
-- Conducted benchmarking and SWOT analysis
-- Worked across ERP, Banking and Business Analysis
-
----
-
-### 🏛️ Public Prosecution
-**Programmer | Apr 2022 – Oct 2022**
-
-- Developed internal web applications
-- Automated manual workflows
-- Supported testing and production releases
-
----
-
-## 🛠️ Technology Stack
-
-### Artificial Intelligence
-
-`LLMs` `RAG` `Agentic AI` `Transformers` `TTS/STT` `LangChain`
-
-### Business Analysis
-
-`Jira` `Confluence` `Microsoft Visio` `BPMN` `UML` `Excel`
-
-### Data & BI
-
-`Python` `SQL` `Power BI` `Tableau` `Snowflake` `Excel`
-
-### Methodologies & Tools
-
-`Agile` `Scrum` `Waterfall` `Git` `Docker` `AWS`
-
----
-
-## 📌 Featured Projects
-
-### 🤖 AI & Generative AI
-
-**Agentic AI Solutions**  
-Designing AI agents that connect business processes with enterprise systems.
-
-**RAG Solutions**  
-Building knowledge-grounded AI solutions for enterprise use cases.
-
-**Conversational AI**  
-Designing multilingual chatbot and voicebot experiences.
-
----
-
-### 📊 Data & Analytics
-
-**Business Intelligence Dashboards**  
-Transforming raw business data into actionable insights.
-
-**Data Quality & Governance**  
-Improving data reliability through structured governance and quality processes.
-
----
-
-### 🧩 Business Analysis
-
-**Requirements Engineering**  
-From business problem → requirements → solution → acceptance criteria.
-
-**Process Modeling**  
-Using BPMN and UML to translate business processes into scalable technology solutions.
-
----
-
-## 🎓 Education & Certifications
-
-### Education
-
-**Bachelor of Science in Software Engineering**
-
-University of Hail · 2022
-
-### Certifications
-
-- ECBA — IIBA
-- Business Intelligence — SDA
-- Data Classification — SDA
-
-
----
-
-## 🔬 Currently Exploring
+## 🧩 What I Do
 
 ```text
-AI Agents
-     ↓
-Agentic Workflows
-     ↓
-RAG & Knowledge Systems
-     ↓
-LLM Applications
-     ↓
-Arabic AI
-     ↓
-Enterprise AI
+BUSINESS PROBLEM
+       │
+       ▼
+┌─────────────────────┐
+│ Requirements        │
+│ Analysis            │
+└──────────┬──────────┘
+           │
+           ▼
+┌─────────────────────┐
+│ Process & Data      │
+│ Analysis            │
+└──────────┬──────────┘
+           │
+           ▼
+┌─────────────────────┐
+│ AI / Technology     │
+│ Solution Design     │
+└──────────┬──────────┘
+           │
+           ▼
+┌─────────────────────┐
+│ Implementation      │
+│ & Validation        │
+└──────────┬──────────┘
+           │
+           ▼
+     BUSINESS VALUE
