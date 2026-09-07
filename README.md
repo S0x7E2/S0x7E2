@@ -101,25 +101,88 @@ KPI Reporting
 </td>
 
 <td width="25%" align="center">
+<!-- ================= TECHNOLOGIES ================= -->
 
-### 🚀 Technology
+<h2 align="center">🛠️ Technologies & Tools</h2>
 
-API Integration
-Python
-Git
-SDLC
-Agile
-Scrum
-Digital Transformation
+<div align="center">
 
-</td>
+<h3>💻 Programming & Data</h3>
 
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=python,git,mysql,postgresql,vscode&theme=dark" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+<br><br>
+
+<h3>📊 Business Intelligence</h3>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+
+<br><br>
+
+<h3>🤖 AI & Generative AI</h3>
+
+<img src="https://img.shields.io/badge/Generative%20AI-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-00AEEF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agentic%20AI-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-6366F1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TTS%20%2F%20STT-0EA5E9?style=for-the-badge"/>
+
+<br><br>
+
+<h3>🧩 Business Analysis</h3>
+
+<img src="https://img.shields.io/badge/UML-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BPMN-EF4444?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BRD-22C55E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SRS-16A34A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Requirements-15803D?style=for-the-badge"/>
+
+<br><br>
+
+<h3>⚙️ Methodologies & Project Tools</h3>
+
+<img src="https://img.shields.io/badge/Agile-22C55E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scrum-16A34A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Waterfall-64748B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SDLC-475569?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft%20Visio-3955A3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft&logoColor=white"/>
+
+<br><br>
+
+<h3>🔌 Integration & Development</h3>
+
+<img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/API%20Integration-00AEEF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<br><br>
+
+<h3>🧠 AI Architecture</h3>
+
+<img src="https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Neural%20Networks-EF4444?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Embeddings-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vector%20Search-6366F1?style=for-the-badge"/>
 
 </div>
 
----
+<br>
+
+<!-- ================= END TECHNOLOGIES ================= -->
 
 # 📊 Expertise Matrix
 
