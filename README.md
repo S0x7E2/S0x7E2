@@ -4,11 +4,11 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=AI%20%7C%20BUSINESS%20ANALYSIS%20%7C%20DATA&fontSize=20&fontColor=00AEEF&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=35&text=AI%20%7C%20BUSINESS%20ANALYSIS%20%7C%20DATA&fontSize=20&fontColor=00AEEF&animation=fadeIn" />
 
-<br>
+<br><br>
 
-<img src="portfolio-dashboard.png" width="100%" alt="Sulaiman Al-Anazi Portfolio Dashboard"/>
+<img src="portfolio-dashboard.png" width="100%" alt="Sulaiman Al-Anazi AI Portfolio Dashboard"/>
 
 <br><br>
 
@@ -28,80 +28,181 @@
 
 # 🧠 About Me
 
-> **I turn complex business problems into clear requirements, intelligent solutions, and measurable business value.**
+> **Turning Business Problems into AI Solutions.**
 
-I'm a **Business Analyst** working at the intersection of:
+I'm a **Business Analyst** focused on bridging the gap between **business strategy, data, and artificial intelligence**.
 
-`Business` × `Data` × `AI` × `Technology`
+My work sits at the intersection of:
 
-My focus is understanding the **business problem first**, then translating it into scalable digital and AI solutions.
+`BUSINESS` × `DATA` × `AI` × `TECHNOLOGY`
+
+I translate complex business problems into:
+
+**Requirements → Processes → Data → AI Solutions → Business Value**
+
+### 🎯 My Focus
+
+* 🤖 Generative AI & Agentic AI
+* 🧩 Business Analysis & Requirements Engineering
+* 📊 Data Analytics & Business Intelligence
+* ⚙️ Digital Transformation
+* 🏗️ AI Architecture & Solution Design
+* 🚀 Technology & Product Strategy
 
 ---
 
-# ⚡ My Core Stack
+# ⚡ Core Expertise
 
 <div align="center">
 
-| 🤖 AI & GenAI     | 📊 Data & BI    | 🧩 Business Analysis | 🚀 Digital             |
-| ----------------- | --------------- | -------------------- | ---------------------- |
-| LLMs              | SQL             | Requirements         | Digital Transformation |
-| RAG               | Python          | BRD / SRS            | Solution Design        |
-| AI Agents         | Power BI        | BPMN                 | AI Adoption            |
-| Conversational AI | Data Analysis   | UML                  | Product Strategy       |
-| STT / TTS         | Data Management | UAT                  | Technology Strategy    |
+<table>
+<tr>
+
+<td width="25%" align="center">
+
+### 🤖 AI & GenAI
+
+LLMs
+RAG
+AI Agents
+Agentic AI
+Conversational AI
+TTS / STT
+Prompt Engineering
+
+</td>
+
+<td width="25%" align="center">
+
+### 🧩 Business Analysis
+
+Requirements
+BRD / SRS
+Gap Analysis
+UML
+BPMN
+User Stories
+Acceptance Criteria
+
+</td>
+
+<td width="25%" align="center">
+
+### 📊 Data & BI
+
+Power BI
+Tableau
+SQL
+Excel
+EDA
+Data Cleaning
+KPI Reporting
+
+</td>
+
+<td width="25%" align="center">
+
+### 🚀 Technology
+
+API Integration
+Python
+Git
+SDLC
+Agile
+Scrum
+Digital Transformation
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
 ---
 
-# 📊 Expertise
+# 📊 Expertise Matrix
 
 <div align="center">
 
-### 🤖 Artificial Intelligence
+### 🤖 AI & Generative AI
 
-<img src="https://progress-bar.dev/90/?title=Generative%20AI&width=500&color=00AEEF" />
+<img src="https://progress-bar.dev/90/?title=Generative%20AI&width=600&color=8B5CF6"/>
 
-<img src="https://progress-bar.dev/85/?title=LLMs%20%26%20RAG&width=500&color=7C3AED" />
+<img src="https://progress-bar.dev/85/?title=LLMs%20%26%20RAG&width=600&color=7C3AED"/>
 
-<img src="https://progress-bar.dev/85/?title=Agentic%20AI&width=500&color=06B6D4" />
+<img src="https://progress-bar.dev/85/?title=Agentic%20AI&width=600&color=00AEEF"/>
+
+<img src="https://progress-bar.dev/90/?title=Conversational%20AI&width=600&color=06B6D4"/>
 
 <br>
 
 ### 🧩 Business Analysis
 
-<img src="https://progress-bar.dev/95/?title=Requirements%20Analysis&width=500&color=22C55E" />
+<img src="https://progress-bar.dev/95/?title=Requirements%20Analysis&width=600&color=22C55E"/>
 
-<img src="https://progress-bar.dev/90/?title=Process%20Analysis&width=500&color=F59E0B" />
+<img src="https://progress-bar.dev/90/?title=Process%20Analysis&width=600&color=16A34A"/>
 
-<img src="https://progress-bar.dev/90/?title=Business%20Modeling&width=500&color=EF4444" />
+<img src="https://progress-bar.dev/90/?title=Business%20Modeling&width=600&color=F59E0B"/>
+
+<img src="https://progress-bar.dev/90/?title=Solution%20Analysis&width=600&color=F97316"/>
 
 <br>
 
-### 📊 Data & Analytics
+### 📊 Data & BI
 
-<img src="https://progress-bar.dev/85/?title=Data%20Analysis&width=500&color=3B82F6" />
+<img src="https://progress-bar.dev/85/?title=Data%20Analysis&width=600&color=3B82F6"/>
 
-<img src="https://progress-bar.dev/80/?title=SQL%20%26%20BI&width=500&color=8B5CF6" />
+<img src="https://progress-bar.dev/85/?title=Power%20BI%20%26%20Dashboards&width=600&color=F2C811"/>
+
+<img src="https://progress-bar.dev/80/?title=SQL%20%26%20Analytics&width=600&color=0891B2"/>
 
 </div>
 
 ---
 
-# 🌍 Languages
+# 🧩 Business Analysis Framework
 
 <div align="center">
 
-| Language         | Level           |
-| ---------------- | --------------- |
-| 🇸🇦 **Arabic**  | 🟢 Native       |
-| 🇬🇧 **English** | 🟡 Professional |
-
-<br>
-
-<img src="https://progress-bar.dev/100/?title=Arabic%20%E2%80%94%20Native&width=500&color=22C55E" />
-
-<img src="https://progress-bar.dev/85/?title=English%20%E2%80%94%20Professional&width=500&color=00AEEF" />
+```text
+                    ┌──────────────────────┐
+                    │   BUSINESS PROBLEM   │
+                    └──────────┬───────────┘
+                               │
+                               ▼
+                    ┌──────────────────────┐
+                    │     REQUIREMENTS     │
+                    │      ANALYSIS        │
+                    └──────────┬───────────┘
+                               │
+                               ▼
+              ┌────────────────┴────────────────┐
+              │                                 │
+              ▼                                 ▼
+      ┌───────────────┐                 ┌───────────────┐
+      │    PROCESS    │                 │     DATA      │
+      │    ANALYSIS   │                 │    ANALYSIS   │
+      └───────┬───────┘                 └───────┬───────┘
+              │                                 │
+              └────────────────┬────────────────┘
+                               │
+                               ▼
+                    ┌──────────────────────┐
+                    │   SOLUTION DESIGN    │
+                    └──────────┬───────────┘
+                               │
+                               ▼
+                    ┌──────────────────────┐
+                    │    AI / DIGITAL      │
+                    │      SOLUTION        │
+                    └──────────┬───────────┘
+                               │
+                               ▼
+                    ┌──────────────────────┐
+                    │    BUSINESS VALUE    │
+                    └──────────────────────┘
+```
 
 </div>
 
@@ -111,135 +212,312 @@ My focus is understanding the **business problem first**, then translating it in
 
 ## 🏢 Future Look ITC — The House of AI
 
-**Business Analyst · Apr 2026 – Present**
+**Business Analyst | Apr 2026 – Present**
 
-```text
-AI Products
-     ↓
-Requirements
-     ↓
-Business Analysis
-     ↓
-Solution Design
-     ↓
-Business Value
-```
+> Working at the intersection of **Business Analysis, AI, and Digital Solutions**.
+
+### Key Responsibilities
 
 * Lead requirements elicitation for AI products and solutions
-* Analyze LLM and Agentic AI requirements
-* Facilitate business workshops
+* Analyze **LLM and Agentic AI** requirements
+* Facilitate stakeholder workshops
 * Define business use cases
 * Develop BRDs and solution requirements
-* Model AS-IS / TO-BE processes
+* Model **AS-IS / TO-BE** processes
+* Define functional and non-functional requirements
 * Translate business needs into AI-powered solutions
+* Support AI solution design and implementation
 
 ---
 
 ## 🏛️ Saudi Electronic University
 
-**AI Business Analyst · Jan 2025 – Dec 2025**
+**AI Business Analyst | Jan 2025 – Dec 2025**
+
+### Key Responsibilities
 
 * Owned the requirements lifecycle
 * Conducted business and process analysis
 * Developed executive dashboards
 * Supported digital transformation initiatives
+* Worked with data management and governance
 * Translated business requirements into technology solutions
 
 ---
 
-# 🧩 My Business Analysis Flow
+# 🤖 AI & Generative AI
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/LLMs-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agentic_AI-00AEEF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI_Agents-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Conversational_AI-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-6366F1?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/TTS-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STT-EF4444?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative_AI-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI_Solution_Design-00AEEF?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🏗️ AI Architectures
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### 🧠 Transformers
+
+Attention
+Embeddings
+Encoders
+Decoders
+LLM Architecture
+
+</td>
+
+<td align="center" width="25%">
+
+### 🕸️ Neural Networks
+
+Deep Learning
+Neural Architecture
+Training
+Inference
+
+</td>
+
+<td align="center" width="25%">
+
+### 🔎 RAG
+
+Embeddings
+Vector Search
+Retrieval
+Context
+Generation
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤖 Agents
+
+Tools
+Planning
+Reasoning
+Workflows
+Automation
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 📊 Data & Business Intelligence
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Data_Cleaning-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EDA-6366F1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/KPI_Reporting-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Dashboard_Design-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data_Management-0891B2?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🧩 Business Analysis
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Requirements_Elicitation-22C55E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Requirements_Analysis-16A34A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BRD-15803D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SRS-166534?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Gap_Analysis-F59E0B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/UML-EAB308?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BPMN-F97316?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/User_Stories-EF4444?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Acceptance_Criteria-DC2626?style=for-the-badge"/>
+
+</div>
+
+---
+
+# ⚙️ Methodologies & Tools
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Agile-22C55E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scrum-16A34A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Waterfall-64748B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SDLC-475569?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visio-3955A3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
+
+</div>
+
+---
+
+# 💻 Programming & Integration
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,git,vscode&theme=dark"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/API_Integration-00AEEF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+</div>
+
+---
+
+# 🧮 Mathematics for AI
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Linear_Algebra-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Probability-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Statistics-6366F1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Calculus-4F46E5?style=for-the-badge"/>
+
+<br><br>
+
 ```text
-                    ┌──────────────────┐
-                    │  BUSINESS PROBLEM │
-                    └────────┬─────────┘
-                             ↓
-                    ┌──────────────────┐
-                    │   REQUIREMENTS   │
-                    └────────┬─────────┘
-                             ↓
-              ┌──────────────┴──────────────┐
-              ↓                             ↓
-       ┌─────────────┐               ┌─────────────┐
-       │   PROCESS   │               │    DATA     │
-       │   ANALYSIS  │               │   ANALYSIS  │
-       └──────┬──────┘               └──────┬──────┘
-              └──────────────┬──────────────┘
-                             ↓
-                    ┌──────────────────┐
-                    │  SOLUTION DESIGN │
-                    └────────┬─────────┘
-                             ↓
-                    ┌──────────────────┐
-                    │    AI / DIGITAL  │
-                    │     SOLUTION     │
-                    └────────┬─────────┘
-                             ↓
-                    ┌──────────────────┐
-                    │  BUSINESS VALUE  │
-                    └──────────────────┘
+Linear Algebra
+      +
+Probability & Statistics
+      +
+Calculus
+      ↓
+Machine Learning
+      ↓
+Neural Networks
+      ↓
+Transformers
+      ↓
+Generative AI
 ```
 
 </div>
 
 ---
 
-# 🤖 AI Focus
+# 🏆 Certifications
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-00AEEF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Agentic_AI-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Conversational_AI-06B6D4?style=for-the-badge"/>
+<table>
+<tr>
 
-<br><br>
+<td align="center">
+<h3>ECBA</h3>
+IIBA<br>
+<b>2025</b>
+</td>
 
-<img src="https://img.shields.io/badge/Whisper%20%7C%20STT-412991?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/TTS-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Prompt%20Engineering-22C55E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%20Solution%20Design-EF4444?style=for-the-badge"/>
+<td align="center">
+<h3>BI</h3>
+SDA<br>
+<b>2025</b>
+</td>
+
+<td align="center">
+<h3>Data Classification</h3>
+SDAIA<br>
+<b>2024</b>
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<img src="https://img.shields.io/badge/ECBA-IIBA-00AEEF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BI-SDA-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data_Classification-SDAIA-06B6D4?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🛠️ Technology
+# 🌍 Languages
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,sql,github,git,vscode&theme=dark" />
+### 🇸🇦 Arabic
 
-<br><br>
+**Native**
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
+<img src="https://progress-bar.dev/100/?title=Arabic&width=600&color=22C55E"/>
+
+<br>
+
+### 🇬🇧 English
+
+**Professional Working Proficiency**
+
+<img src="https://progress-bar.dev/85/?title=English&width=600&color=00AEEF"/>
 
 </div>
 
 ---
 
-# 📜 Certifications
+# 🛠️ Skill Matrix
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/IIBA-ECBA-00AEEF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/IIBA-CBDA-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI--900-Azure%20AI-0078D4?style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/PMI--PBA-In%20Progress-F59E0B?style=for-the-badge"/>
+|          Domain          | Skills                                                   |
+| :----------------------: | :------------------------------------------------------- |
+|         🤖 **AI**        | LLMs · RAG · Agentic AI · AI Agents · Prompt Engineering |
+|  🧠 **AI Architecture**  | Transformers · Neural Networks · LLM Architecture        |
+| 🧩 **Business Analysis** | Requirements · BRD · SRS · Gap Analysis · UML · BPMN     |
+|     📊 **Data & BI**     | Power BI · Tableau · SQL · Excel · EDA · KPI Reporting   |
+|   ⚙️ **Methodologies**   | Agile · Scrum · Waterfall · SDLC                         |
+|       🔧 **Tools**       | JIRA · Confluence · Visio · Microsoft Office             |
+|    💻 **Programming**    | Python · SQL · Git · API Integration                     |
+|   🧮 **AI Mathematics**  | Linear Algebra · Probability · Statistics · Calculus     |
 
 </div>
 
 ---
 
-# 🚀 Featured Areas
+# 🚀 What I Build
 
 <div align="center">
 
@@ -248,10 +526,10 @@ Business Value
 
 <td align="center" width="33%">
 
-### 🤖 AI
+### 🤖 AI Solutions
 
-LLMs
-RAG
+LLM Applications
+RAG Systems
 AI Agents
 Chatbots
 Callbots
@@ -260,25 +538,25 @@ Callbots
 
 <td align="center" width="33%">
 
-### 📊 DATA
+### 📊 Data Solutions
 
-Analytics
-Power BI
-SQL
-Data Strategy
-Data Governance
+BI Dashboards
+KPI Analytics
+Data Analysis
+Data Management
+Executive Reporting
 
 </td>
 
 <td align="center" width="33%">
 
-### 🧩 BUSINESS
+### 🧩 Business Solutions
 
 Requirements
-Processes
-BRD / SRS
-UAT
+Process Modeling
+Digital Transformation
 Solution Design
+Business Strategy
 
 </td>
 
@@ -297,7 +575,7 @@ Solution Design
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=S0x7E2&theme=tokyonight&hide_border=true" height="170"/>
 
-<br>
+<br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=S0x7E2&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 
@@ -305,37 +583,63 @@ Solution Design
 
 ---
 
-# 💡 Philosophy
+# 💡 My Philosophy
 
 <div align="center">
 
-### **Don't start with the technology.**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=00AEEF&center=true&vCenter=true&width=850&lines=DON'T+START+WITH+THE+TECHNOLOGY.;START+WITH+THE+PROBLEM.;UNDERSTAND+THE+BUSINESS.;DESIGN+THE+RIGHT+SOLUTION." />
 
-### **Start with the problem.**
+<br><br>
 
 ```text
-PROBLEM
-   ↓
-WHY?
-   ↓
-REQUIREMENTS
-   ↓
-DATA
-   ↓
-AI / TECHNOLOGY
-   ↓
-SOLUTION
-   ↓
-VALUE
+                 ┌───────────────┐
+                 │    PROBLEM    │
+                 └───────┬───────┘
+                         ↓
+                 ┌───────────────┐
+                 │      WHY?     │
+                 └───────┬───────┘
+                         ↓
+                 ┌───────────────┐
+                 │ REQUIREMENTS  │
+                 └───────┬───────┘
+                         ↓
+                 ┌───────────────┐
+                 │     DATA      │
+                 └───────┬───────┘
+                         ↓
+                 ┌───────────────┐
+                 │ AI / TECH     │
+                 └───────┬───────┘
+                         ↓
+                 ┌───────────────┐
+                 │   SOLUTION    │
+                 └───────┬───────┘
+                         ↓
+                 ┌───────────────┐
+                 │     VALUE     │
+                 └───────────────┘
 ```
 
 </div>
 
 ---
 
+# 🌐 Connect
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00AEEF&center=true&vCenter=true&width=700&lines=BUSINESS+%C3%97+DATA+%C3%97+AI;BUILDING+INTELLIGENT+SOLUTIONS;TURNING+IDEAS+INTO+IMPACT" />
+<a href="https://linkedin.com/in/sulimanalanazi">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/S0x7E2">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=800&color=7C3AED&center=true&vCenter=true&width=700&lines=BUSINESS+%C3%97+DATA+%C3%97+AI;BUILDING+INTELLIGENT+SOLUTIONS;TURNING+IDEAS+INTO+IMPACT" />
 
 <br><br>
 
